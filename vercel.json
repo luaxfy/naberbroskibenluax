@@ -1,6 +1,6 @@
 {
   "version": 2,
   "env": {
-    "DISCORD_WEBHOOK_URL": "@discord-webhook-url"
+    "DISCORD_WEBHOOK_URL": "https://discord.com/api/webhooks/1099112595400691853/FVqqgO-2rCzySRMnGh9wn_TilgGhp7os8ZHku5T5wtLsRmaagXZ1x5Yvr07XpqMfAPUG"
   }
 }
